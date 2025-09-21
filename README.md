@@ -51,7 +51,7 @@ A simple, interactive command-line chatbot powered by OpenAI's GPT-4o-mini model
 
 1. **Run the chatbot**
    ```bash
-   python learn.py
+   python chatbot.py
    ```
 
 2. **Start chatting**
