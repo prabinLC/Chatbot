@@ -20,8 +20,8 @@ A simple, interactive command-line chatbot powered by OpenAI's GPT-4o-mini model
 
 1. **Clone or download this project**
    ```bash
-   git clone <your-repo-url>
-   cd reaction
+   git clone https://github.com/prabinLC/Chatbot.git
+   cd Chatbot
    ```
 
 2. **Set up virtual environment (recommended)**
@@ -168,4 +168,4 @@ If you encounter issues:
 
 ---
 
-**Enjoy chatting with your AI assistant!** 🚀#
+**Enjoy chatting with your AI assistant!** 🚀
